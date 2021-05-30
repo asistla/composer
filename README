@@ -1,0 +1,12 @@
+Goals:
+
+1. Allow playing of arbitrary frequency specified in Hz.
+2. Wrappers to select frequencies to generate notes.
+3. Wrappers to add filters to modify tone.
+4. Wrappers to anlyze and reproduce instruments.
+5. Wrappers to analyze noise characteristics.
+6. Wrappers to play multiple simultanenous tones/chords.
+7. Functionality to add silence, noise.
+Part II:
+8. Wrappers to interface with USB/microphones.
+9. Learn music generation.

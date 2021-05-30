@@ -1,0 +1,10 @@
+http://ajaxsoundstudio.com/pyodoc/
+https://wiki.python.org/moin/PythonInMusic
+sudo apt-get install python3-all-dev portaudio19-dev
+sudo apt-get install python3-pyaudio
+https://lilypond.org/introduction.html
+https://pypi.org/project/pyFluidSynth/
+
+Lilypond typesetting for tablature:
+https://pypi.org/project/python-ly/
+http://lilypond.org/
