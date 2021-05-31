@@ -14,3 +14,5 @@ while IFS= read -r line; do
 
     # apt install all of the packages
     apt install -y $packs
+cd /usr/lib/x86_64-linux-gnu/
+sudo ln -s alsa-lib/libasound_module_conf_pulse.so libasound_module_conf_pulse.so

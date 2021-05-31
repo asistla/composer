@@ -1,6 +1,7 @@
 dpkg-dev
 build-essential
 freeglut3-dev
+python3-pyo
 libgl1-mesa-dev
 libglu1-mesa-dev
 libgstreamer-plugins-base1.0-dev
@@ -13,4 +14,9 @@ libsm-dev
 libtiff-dev
 libwebkit2gtk-4.0-dev
 libxtst-dev
-
+libasound2
+libc6
+liblo7
+libportaudio2
+libportmidi0
+libsndfile1
